@@ -10,6 +10,7 @@ header {
     width: 100%;
     background-color: pink;
     padding: 5px;
+    background-color: aliceblue;
 }
 
-    h1{font-size: 20px;}
+    h1{font-size: 15px;}
